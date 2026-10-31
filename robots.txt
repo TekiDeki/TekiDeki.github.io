@@ -1,0 +1,6 @@
+# Radacina gazdei tekideki.github.io.
+# Se citeste doar de aici, nu din /Nume-Repo/ - de aceea exista acest depozit.
+User-agent: *
+Allow: /
+
+Sitemap: https://tekideki.github.io/sitemap.xml
